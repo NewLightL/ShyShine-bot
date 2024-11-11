@@ -25,4 +25,6 @@ The Telegram bot was created specifically for administering ShyShyine channels. 
 
 ## CONTRIBUTE
 
-If you have ideas and suggestions for the bot, you can send them by [email](lev.hhh.nohrin@gamil.com). I would be grateful for your help!
+If you have ideas and suggestions for the bot, you can send them by email. I would be grateful for your help!
+
+> <lev.hhh.nohrin@gamil.com>
